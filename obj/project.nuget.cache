@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Sovg9R/RLDefHQ4Q4oI/KmWu0K2qoKEerhdXDYxWxfozQJVcmlpSRCU+FNTgCW0oFmkp6revxpfUvEpt9+C5g==",
+  "success": true,
+  "projectFilePath": "/home/admin/workspace/C#/lesson20/homework/Task1/Task1.csproj",
+  "expectedPackageFiles": [
+    "/home/admin/.nuget/packages/dapper/2.0.143/dapper.2.0.143.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/admin/.nuget/packages/npgsql/8.0.0-preview.4/npgsql.8.0.0-preview.4.nupkg.sha512"
+  ],
+  "logs": []
+}
